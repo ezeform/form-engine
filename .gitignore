@@ -1,2 +1,6 @@
-/node_modules/
+.idea
+bower_components
+node_modules
+client/node_modules
+app*
 npm-debug.log
